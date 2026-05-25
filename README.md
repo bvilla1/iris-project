@@ -6,7 +6,7 @@
 Interactive dashboard that classifies Iris flower species using a Random Forest model trained on the classic Iris dataset.
 
 ## Team Members
-- (Add your names here)
+- (BREINER-VILLA)
 
 ## How to Run
 
